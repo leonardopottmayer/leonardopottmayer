@@ -1,28 +1,7 @@
-### Hi there 👋
-
-<!--
-**leonardopottmayer/leonardopottmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Leonardo</h1>
-<h4 align="center">developer and also an computer science student at FURB university.</h4>
-<a href="https://pottmayer.dev">pottmayer.dev</a>
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+### Hello World 👋
+I am a fullstack software developer from Brazil
+- 🔭 Working on multiple frontend and backend project using React, Node.js and .NET
+- 🌱 Learning design patterns in depth
+<br>
+## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/mohammad-faisal-2665b5134](https://www.linkedin.com/in/leonardopottmayer/))
